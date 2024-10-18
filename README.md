@@ -1,2 +1,3 @@
-# GAHR
-Generalizable Animatable Human Reconstruction Model
+# GA^2 - Official PyTorch Implementation
+
+GA^2: Generalizable and Animatable Gaussian Avatar Model
