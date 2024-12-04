@@ -21,6 +21,7 @@
 
 We are working on releasing the code... 🏗️ 🚧 🔨 Please stay tuned! (Before 03.01 2025, UTC)
 
+- [ ] Online Demo
 - [ ] Animation Code
 - [ ] Reconstruction from Inconsistent Images
 - [ ] Champ-Based Multi-view RGB & Normal Prior 
