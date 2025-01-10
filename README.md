@@ -17,7 +17,7 @@
 
 ## News
 
-- (01.10, 2025 UTC) 📢📢📢 We have integrated AniGS in **👉 [MotionShop-2](https://img.shields.io/badge/%20ModelScope%20-Space-blue)** 📢📢📢
+- (01.10, 2025 UTC) 📢📢📢 We have integrated AniGS in **👉 [MotionShop-2](https://modelscope.cn/studios/Damo_XR_Lab/Motionshop2)** 📢📢📢
 
 ## Code
 
