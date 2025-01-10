@@ -17,13 +17,13 @@
 
 ## News
 
-- (01.10, 2025 UTC) 📢📢📢 We have integrated AniGS in **[MotionShop-2](https://img.shields.io/badge/%20ModelScope%20-Space-blue)** 📢📢📢, 🔥🔥🔥 give it a try right now 🔥🔥🔥！
+- (01.10, 2025 UTC) 📢📢📢 We have integrated AniGS in **👉 [MotionShop-2](https://img.shields.io/badge/%20ModelScope%20-Space-blue)** 📢📢📢
 
 ## Code
 
 We are working on releasing the code... 🏗️ 🚧 🔨 Please stay tuned! (Before 03.01 2025, UTC)
 
-- [x] Online Demo is Coming!
+- [x] Online Demo 🔥🔥🔥
 - [ ] Animation Code
 - [ ] Reconstruction from Inconsistent Images
 - [ ] Champ-Based Multi-view RGB & Normal Prior 
