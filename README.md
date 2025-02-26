@@ -16,7 +16,7 @@
 </p>
 
 ## News
-
+- (02.27, 2025 UTC) 📢📢📢AniGS is got accepted by CVPR2025!!!
 - (01.10, 2025 UTC) 📢📢📢 We have integrated AniGS in **👉 [MotionShop-2](https://modelscope.cn/studios/Damo_XR_Lab/Motionshop2)** 📢📢📢
 
 ## Code
