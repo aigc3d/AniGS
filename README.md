@@ -21,7 +21,7 @@
 
 ## Code
 
-We are working on releasing the code... 🏗️ 🚧 🔨 Please stay tuned! (Before 03.01 2025, UTC)
+We are working on releasing the code... 🏗️ 🚧 🔨 Please stay tuned! (3.20 2025, UTC)
 
 - [x] Online Demo 🔥🔥🔥
 - [ ] Animation Code
